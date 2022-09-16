@@ -3,7 +3,7 @@
     "name": "Manuel Ernesto Garcia",
     "description": "Software engineer fom Cuba 🇨🇺",
     "alt": "Photo of Manuel Ernesto Garcia",
-    "hero": "./src/images/profile.jpg"
+    "hero": "https://pbs.twimg.com/profile_images/1399041091681275904/syPAZk5V_400x400.jpg"
   },
 
   "Social": [
@@ -78,7 +78,7 @@
       "id": "usdt",
       "label": "USDT-TRC20",
       "value": "TJZ3aURD9996TkgsnTQirJMnW8SDruqH9n",
-      "img": "./src/images/crypto/usdt.svg"
+      "img": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=023"
     },
     {
       "id": "qvapay",
