@@ -30,7 +30,7 @@
       "id": "btc",
       "label": "Bitcoin",
       "value": "bc1qy7x0au4tk3h2mvkl3cg5ns5hjqeg7r6snh8z0a",
-      "img": "./src/images/crypto/btc.svg"
+      "img": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg"
     },
     {
       "id": "hive",
@@ -84,7 +84,7 @@
       "id": "qvapay",
       "label": "QvaPay",
       "value": "https://qvapay.com/payme/merodriguez9112",
-      "img": "./src/images/crypto/qvapay.svg"
+      "img": "https://i.ibb.co/XJNg75G/qvapay.png"
     },
     {
       "id": "sol",
