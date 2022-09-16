@@ -1,23 +1,23 @@
 {
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./src/images/daniel-castillo.png"
+    "name": "Manuel Ernesto Garcia",
+    "description": "Software engineer fom Cuba 🇨🇺",
+    "alt": "Photo of Manuel Ernesto Garcia",
+    "hero": "./src/images/profile.jpg"
   },
 
   "Social": [
-    { "label": "GitHub", "type": "github", "link": "yourlinkhere" },
-    { "label": "Link", "type": "link", "link": "yourlinkhere" },
-    { "label": "Twitter", "type": "twitter", "link": "" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "yourlinkhere" },
+    { "label": "Link", "type": "link", "link": "https://manuelernestogr.bio.link/" },
+    { "label": "GitHub", "type": "github", "link": "https://github.com/manuelernestog" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/manuelernestog" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "https://www.linkedin.com/in/manuelernestogr" },
     { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
-    { "label": "Snapchat", "type": "snapchat", "link": "yourlinkhere" },
-    { "label": "Telegram", "type": "telegram", "link": "" },
+    { "label": "Snapchat", "type": "snapchat", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/manuelernestog" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
@@ -29,13 +29,19 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "yourwalletadress",
+      "value": "bc1qy7x0au4tk3h2mvkl3cg5ns5hjqeg7r6snh8z0a",
       "img": "./src/images/crypto/btc.svg"
+    },
+    {
+      "id": "hive",
+      "label": "Hive",
+      "value": "@manuelernestog",
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
       "id": "busd",
       "label": "BinanceUSD",
-      "value": "yourwalletadress",
+      "value": "",
       "img": "./src/images/crypto/busd.svg"
     },
     {
@@ -47,37 +53,37 @@
     {
       "id": "doge",
       "label": "DogeCoin",
-      "value": "yourwalletadress",
+      "value": "",
       "img": "./src/images/crypto/doge.svg"
     },
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "eth",
+      "value": "",
       "img": "./src/images/crypto/eth.svg"
     },
     {
       "id": "ltc",
-      "label": "Litecoin",
+      "label": "",
       "value": "",
       "img": "./src/images/crypto/ltc.svg"
     },
     {
       "id": "paypal",
       "label": "Paypal",
-      "value": "paypal",
+      "value": "",
       "img": "./src/images/crypto/paypal.svg"
     },
     {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT-TRC20",
+      "value": "TJZ3aURD9996TkgsnTQirJMnW8SDruqH9n",
       "img": "./src/images/crypto/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "",
+      "value": "https://qvapay.com/payme/merodriguez9112",
       "img": "./src/images/crypto/qvapay.svg"
     },
     {
@@ -103,6 +109,18 @@
       "label": "XRP",
       "value": "",
       "img": "./src/images/crypto/xrp.svg"
+    },
+    {
+      "id": "CUP",
+      "label": "CUP Card",
+      "value": "9204-9598-7540-1111",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
+    },
+    {
+      "id": "MLC",
+      "label": "MLC Card",
+      "value": "9225-9598-7301-5736",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
     }
   ]
 }
