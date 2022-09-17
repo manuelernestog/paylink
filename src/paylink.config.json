@@ -2,24 +2,23 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Manuel Ernesto Garcia",
+    "description": "Software engineer fom Cuba 🇨🇺",
+    "alt": "Photo of Manuel Ernesto Garcia",
+    "hero": "https://pbs.twimg.com/profile_images/1399041091681275904/syPAZk5V_400x400.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/in/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "https://manuelernestogr.bio.link/" },
+    { "label": "GitHub", "type": "github", "link": "https://github.com/manuelernestog" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/manuelernestog" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "https://www.linkedin.com/in/manuelernestogr" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
-    { "label": "Telegram", "type": "telegram", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/manuelernestog" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
@@ -31,8 +30,14 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qy7x0au4tk3h2mvkl3cg5ns5hjqeg7r6snh8z0a",
       "img": "./images/crypto/btc.svg"
+    },
+    {
+      "id": "hive",
+      "label": "Hive",
+      "value": "@manuelernestog",
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
       "id": "busd",
@@ -72,14 +77,14 @@
     },
     {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT-TRC20",
+      "value": "TJZ3aURD9996TkgsnTQirJMnW8SDruqH9n",
       "img": "./images/crypto/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/merodriguez9112",
       "img": "./images/crypto/qvapay.svg"
     },
     {
@@ -105,6 +110,18 @@
       "label": "XRP",
       "value": "",
       "img": "./images/crypto/xrp.svg"
+    },
+    {
+      "id": "CUP",
+      "label": "CUP Card",
+      "value": "9204-9598-7540-1111",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
+    },
+    {
+      "id": "MLC",
+      "label": "MLC Card",
+      "value": "9225-9598-7301-5736",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
     }
   ]
 }
